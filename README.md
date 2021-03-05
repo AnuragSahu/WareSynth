@@ -1,4 +1,4 @@
- # WarehouseGen
+ # WareSynth
 
  A procedural synthetic  data  generation pipeline  that  can  be  used  to  generate  3D  warehouse  scenes and  automate  the  process  of  data  capture  and  generating corresponding  annotation.
 
@@ -13,7 +13,7 @@ The scripts here need blender to run, and you need to have the files set up as:
 ├── Project Directory
 │   ├── Blender
 │   │   ├── blender (executable)
-│   ├── WarehouseGen (This repo)
+│   ├── WareSynth (This repo)
 │   │   ├── src
 │   │   ├── objects (assets)
 |   |   |   ├── primitives
