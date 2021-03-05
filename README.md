@@ -4,8 +4,21 @@
 
 ![Alt Text](./tes.gif)
 
-## Repo setup
-The repository is has to be setup we need to have blender get the objects asscets.
+## Setup
+
+You need to download blender from : <a href = "https://www.blender.org/download/"> Blender Download </a> <br>
+The assets files should also be downloaded from : <a href = ""> Give Drive  link </a> <br> 
+The scripts here need blender to run, and you need to have the files set up as:
+```bash
+├── Project Directory
+│   ├── Blender
+│   │   ├── blender (executable)
+│   ├── WarehouseGen (This repo)
+│   │   ├── src
+│   │   ├── objects
+|   |   |   ├── primitives
+```
+
 
 ## Utility
 * In order to generate the warehouse along with the front and top layouts:
@@ -20,16 +33,5 @@ GENERATE_KITTI = True
 bash genrateDataset
 ```
 
-* The number of images and other configs of the warehouse can be altered by changing variables in the bottom-most for loop.
+* The number of images and other configs of the warehouse can be altered by changing variables.
 
-## Setup
-The scripts here need blender to run, and you need to have the files set up as:
-```bash
-├── Project Directory
-│   ├── Blender
-│   │   ├── blender (executable)
-│   ├── WarehouseGen (This repo)
-│   │   ├── src
-│   │   ├── objects
-|   |   |   ├── primitives
-```
