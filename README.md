@@ -15,7 +15,7 @@ The scripts here need blender to run, and you need to have the files set up as:
 │   │   ├── blender (executable)
 │   ├── WarehouseGen (This repo)
 │   │   ├── src
-│   │   ├── objects
+│   │   ├── objects (assets)
 |   |   |   ├── primitives
 ```
 
