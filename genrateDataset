@@ -1,0 +1,10 @@
+#!/bin/bash
+
+for i in {1..60..1}
+do
+	../blender_tanvi/blender -P scripts/pillared_warehouse/warehouse_pillared_new.py -b
+	mv "./datasets" "./datasets_${i}"
+done
+python3 scripts/pillared_warehouse/dataset_merger.py
+python3 scripts/pillared_warehouse/GenerateLayouts.py
+date
