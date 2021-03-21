@@ -16,9 +16,9 @@ The absolute Depth Map and Camera positions and orientations can be obtained, ot
 
 <!--![Alt Text](./assets/Depth_and_trajectory.png)-->
 <p float="left">
-<img src="./assets/Depth_and_trajectory.png" alt="Depth and Trajectory Example" width="300" height="150"> 
-<img src="./assets/segmentation_maps.png" alt="Depth and Trajectory Example" width="300" height="150"> 
-<img src="./assets/3D_bounding_boxes_and_point_cloud.png" alt="Depth and Trajectory Example" width="250" height="150"> 
+<img src="./assets/Depth_and_trajectory.png" alt="Depth and Trajectory Example" width="300" height="180"> 
+<img src="./assets/segmentation_maps.png" alt="Depth and Trajectory Example" width="300" height="180"> 
+<img src="./assets/3D_bounding_boxes_and_point_cloud.png" alt="Depth and Trajectory Example" width="200" height="180"> 
 </p>
 
 3D_bounding_boxes_and_point_cloud
