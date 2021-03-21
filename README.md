@@ -13,14 +13,11 @@ Our  generation  process  entails  placement  of  objects  in the scene procedur
 
 The absolute Depth Map and Camera positions and orientations can be obtained, other usefull information like 2D Object/Instance level segmetation maps can be obtained, combined that with Depth Map the 3D point cloud segmentation can be obtained. Further more the annotations can be exported in various popular formats like COCO, YOLO, Pix3D, KITTI, BOP.
 
-
-<!--![Alt Text](./assets/Depth_and_trajectory.png)-->
 <p float="left">
-<img src="./assets/Depth_and_trajectory.png" alt="Depth and Trajectory Example" width="300" height="180"> 
-<img src="./assets/segmentation_maps.png" alt="Depth and Trajectory Example" width="300" height="180"> 
-<img src="./assets/3D_bounding_boxes_and_point_cloud.png" alt="Depth and Trajectory Example" width="200" height="180"> 
+    <img src="./assets/Depth_and_trajectory.png" alt="Depth and Trajectory Example" width="300" height="180"> 
+    <img src="./assets/segmentation_maps.png" alt="Depth and Trajectory Example" width="300" height="180"> 
+    <img src="./assets/3D_bounding_boxes_and_point_cloud.png" alt="Depth and Trajectory Example" width="200" height="180"> 
 </p>
 
-3D_bounding_boxes_and_point_cloud
 
 *Note : The code and the assets will be released upon paper acceptance.
