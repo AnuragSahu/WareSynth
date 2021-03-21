@@ -1,4 +1,4 @@
- # WareSynth
+# WareSynth
 
  A procedural synthetic  data  generation pipeline  that  can  be  used  to  generate  3D  warehouse  scenes and  automate  the  process  of  data  capture  and  generating corresponding  annotation.
 
