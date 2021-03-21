@@ -2,8 +2,8 @@
 
  A procedural synthetic  data  generation pipeline  that  can  be  used  to  generate  3D  warehouse  scenes and  automate  the  process  of  data  capture  and  generating corresponding  annotation.
 
-## A sample Warehouse
-<embed width="800" height="500" src="https://www.youtube.com/embed/inYH3Hqf-Ek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></embed>
+## A Sample Warehouse
+<embed width="800" height="500" src="https://www.youtube.com/embed/inYH3Hqf-Ek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 
 ## The Generation of Warehouse
 
@@ -11,4 +11,4 @@ Our  generation  process  entails  placement  of  objects  in the scene procedur
 
 <!-- ![Alt Text](./assets/tes.gif) -->
 
-*Note : The Code and the Assets will be Released upon Paper acceptance.
+*Note : The code and the assets will be released upon paper acceptance.
