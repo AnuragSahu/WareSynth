@@ -15,7 +15,7 @@ The absolute Depth Map and Camera positions and orientations can be obtained, ot
 
 
 <!--![Alt Text](./assets/Depth_and_trajectory.png)-->
-<p>
+<p float="left">
 <img src="./assets/Depth_and_trajectory.png" alt="Depth and Trajectory Example" width="500" height="300"> 
 <img src="./assets/segmentation_maps.png" alt="Depth and Trajectory Example" width="500" height="300"> 
 <img src="./assets/3D_bounding_boxes_and_point_cloud.png" alt="Depth and Trajectory Example" width="350" height="300"> 
