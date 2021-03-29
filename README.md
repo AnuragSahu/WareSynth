@@ -32,4 +32,6 @@ The absolute Depth Map and Camera positions and orientations can be obtained, ot
 
 <embed width="800" height="500" src="https://www.youtube.com/embed/inYH3Hqf-Ek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 
+<iframe width="800" height="500" src="https://www.youtube.com/embed/Gp8cWECqigw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 *Note : The code and the assets will be released upon paper acceptance.
