@@ -3,7 +3,8 @@
  A procedural synthetic  data  generation pipeline  that  can  be  used  to  generate  3D  warehouse  scenes and  automate  the  process  of  data  capture  and  generating corresponding  annotation.
 
 ## A Sample Warehouse
-<embed width="800" height="500" src="https://www.youtube.com/embed/inYH3Hqf-Ek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+
+<img src="./assets/tes.png" alt="Depth and Trajectory Example" > 
 
 ## The Generation of Warehouse
 
@@ -27,5 +28,8 @@ The absolute Depth Map and Camera positions and orientations can be obtained, ot
     <img src="./assets/3D_bounding_boxes_and_point_cloud.png" alt="Depth and Trajectory Example" width="200" height="180"> 
 </p>
 
+## Videos 
+
+<embed width="800" height="500" src="https://www.youtube.com/embed/inYH3Hqf-Ek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 
 *Note : The code and the assets will be released upon paper acceptance.
