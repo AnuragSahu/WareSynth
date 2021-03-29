@@ -9,6 +9,14 @@
 
 Our  generation  process  entails  placement  of  objects  in the scene procedurally in a randomized fashion, followed by adjustment of the lighting and textures. We perform texture editing and manipulate roughness and reflectance properties of objects to mimic real warehouse scenes.We  start  with  an  empty  warehouse.  Racks  are  placed inside the warehouse according to a randomly generated 2D occupancy map. Lighting in the warehouse is also according to the same map, where we illuminate the corridors and also introduce  ambient  lighting.  We  keep  the  inter-shelf  heightand  number  of  shelves  in  racks,  width  of  corridors  and overall  rack  density  of  the  warehouse  as  parameters  which can be tuned as per requirements. It is important to note that WareSynth is  not  constrained  by specific  settings.  The existing models can be readily substituted with custom box and rack models to configure the warehouse. We   also   randomize   the   placement   of   boxes   on   each particular  rack  by  specifying  parameters  which  control  the density of boxes placed and minimum distance between the boxes.
 
+## Paper
+
+This Synthetic Warehouse Pipeline generation is a part of "RackLay: Multi-Layer Layout Estimation for Warehouse Racks", The Links to paper, code, dataset, are as follows : <br>
+Link to Paper :  <a href = "https://arxiv.org/abs/2103.09174" > arXiv </a> <br>
+Link to Code for WareSynth : <a href = "https://github.com/AnuragSahu/WareSynth"> WareSynth Code </a><br>
+Link to Code for RackLay : <a href = "https://github.com/Avinash2468/RackLay"> RackLay Code </a><br>
+Download Dataset : <a href = "https://drive.google.com/drive/folders/1-GizhhfVOeyITYK0nIYpoyQPgtgALHvG?usp=sharing"> Dataset </a>
+
 ## Capabilities of WareSynth
 
 The absolute Depth Map and Camera positions and orientations can be obtained, other usefull information like 2D Object/Instance level segmetation maps can be obtained, combined that with Depth Map the 3D point cloud segmentation can be obtained. Further more the annotations can be exported in various popular formats like COCO, YOLO, Pix3D, KITTI, BOP.
