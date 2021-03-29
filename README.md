@@ -34,4 +34,29 @@ The absolute Depth Map and Camera positions and orientations can be obtained, ot
 
 <embed width="800" height="500" src="https://www.youtube.com/embed/Gp8cWECqigw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 
-*Note : The code and the assets will be released upon paper acceptance.
+## Use WareSynth Pipeline
+
+The scripts here need blender to run, and you need to have the files set up as:
+```bash
+├── Project Directory
+│   ├── Blender
+│   │   ├── blender (executable)
+│   ├── WareSynth (This repo)
+│   │   ├── src
+│   │   ├── objects (assets)
+|   |   |   ├── primitives
+```
+
+* In order to generate the warehouse along with the front and top layouts:
+```
+bash genrateDataset
+```
+
+* If you want to also Generate Kitti, goto Constants files and make the GENERATE_KITTI flag true and then run the script
+```
+gedit scripts/pillared_warehouse/Constants.py
+GENERATE_KITTI = True
+bash genrateDataset
+```
+
+* The number of images and other configs of the warehouse can be altered by changing variables.
