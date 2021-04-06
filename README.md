@@ -7,7 +7,7 @@
  <img src="./assets/tes.png" alt="Depth and Trajectory Example" > 
 </p>
 
-## WareSynth Synthetic Warehouse Generation Pipeline is a part of the project: "RackLay: Multi-Layer Layout Estimation for Warehouse Racks" 
+### WareSynth Synthetic Warehouse Generation Pipeline is a part of the project: "RackLay: Multi-Layer Layout Estimation for Warehouse Racks" 
 ### Link to [arxiv Paper](https://arxiv.org/abs/2103.09174), [RackLay](https://avinash2468.github.io/RackLay/) 
 ### Link to [Dataset](https://drive.google.com/drive/folders/1-GizhhfVOeyITYK0nIYpoyQPgtgALHvG?usp=sharing) generated using WareSynth (used for training RackLay network)
 
