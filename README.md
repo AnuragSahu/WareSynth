@@ -39,3 +39,20 @@
 <p align="center">
     <img src="./assets/3D_bounding_boxes_and_point_cloud.png" alt="Depth and Trajectory Example" > 
  </p>
+ 
+ ## How to cite
+If you find this work useful, please use the following BibTeX entry for citing us
+```
+@misc{nigam2021racklay,
+      title={RackLay: Multi-Layer Layout Estimation for Warehouse Racks}, 
+      author={Meher Shashwat Nigam and Avinash Prabhu and Anurag Sahu and Puru Gupta and Tanvi Karandikar and N. Sai Shankar and Ravi Kiran Sarvadevabhatla and K. Madhava Krishna},
+      year={2021},
+      eprint={2103.09174},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
+
+## Contact information
+- anurag.sahu@research.iiit.ac.in
+- tanvi.karandikar@students.iiit.ac.in
