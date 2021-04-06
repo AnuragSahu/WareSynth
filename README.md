@@ -25,9 +25,9 @@
 - Our pipeline can also be used to obtain stereo-information. 
 - The annotations can be exported in various popular formats like COCO, YOLO, Pix3D, KITTI, BOP as needed by the user.
 
-<h3> Depth maps and extracting trajectory </h3>
+<h3> Depth maps and camera trajectory </h3>
 <p align="center">
-    <img src="./assets/Depth_and_trajectory.png" alt="Depth and Trajectory Example"> 
+    <img src="./assets/Depth_and_trajectory.png" alt="Depth and Trajectory Example" height="350" > 
 </p>
 
 <h3> 2D Instance segmentation masks
