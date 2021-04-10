@@ -40,7 +40,7 @@
     <img src="./assets/3D_bounding_boxes_and_point_cloud.png" alt="Depth and Trajectory Example" > 
  </p>
  
- ## How to cite
+## How to cite
 If you find this work useful, please use the following BibTeX entry for citing us
 ```
 @misc{nigam2021racklay,
@@ -52,7 +52,7 @@ If you find this work useful, please use the following BibTeX entry for citing u
       primaryClass={cs.CV}
 }
 ```
-
+<br>
 ## Contact information
 - anurag.sahu@research.iiit.ac.in
 - tanvi.karandikar@students.iiit.ac.in
