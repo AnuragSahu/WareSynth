@@ -52,7 +52,7 @@ If you find this work useful, please use the following BibTeX entry for citing u
       primaryClass={cs.CV}
 }
 ```
-<br>
+
 ## Contact information
 - anurag.sahu@research.iiit.ac.in
 - tanvi.karandikar@students.iiit.ac.in
