@@ -41,7 +41,7 @@
  </p>
  
 ## How to cite
-If you find this work useful, please use the following BibTeX entry for citing us
+If you find this work useful, please use the following BibTeX entry for citing us <br>
 ```
 @article{nigam2021racklay,
   title={RackLay: Multi-Layer Layout Estimation for Warehouse Racks},
@@ -50,7 +50,7 @@ If you find this work useful, please use the following BibTeX entry for citing u
   year={2021}
 }
 ```
-
+<br>
 ## Contact information
 - anurag.sahu@research.iiit.ac.in
 - tanvi.karandikar@students.iiit.ac.in
