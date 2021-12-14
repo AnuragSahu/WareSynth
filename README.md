@@ -43,13 +43,11 @@
 ## How to cite
 If you find this work useful, please use the following BibTeX entry for citing us
 ```
-@misc{nigam2021racklay,
-      title={Monocular Multi-Layer Layout Estimation for Warehouse Racks}, 
-      author={Meher Shashwat Nigam and Avinash Prabhu and Anurag Sahu and Puru Gupta and Tanvi Karandikar and N. Sai Shankar and Ravi Kiran Sarvadevabhatla and K. Madhava Krishna},
-      year={2021},
-      eprint={2103.09174},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@article{nigam2021racklay,
+  title={RackLay: Multi-Layer Layout Estimation for Warehouse Racks},
+  author={Nigam, Meher Shashwat and Prabhu, Avinash and Sahu, Anurag and Gupta, Puru and Karandikar, Tanvi and Shankar, N Sai and Sarvadevabhatla, Ravi Kiran and Krishna, K Madhava},
+  journal={arXiv preprint arXiv:2103.09174},
+  year={2021}
 }
 ```
 
