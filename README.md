@@ -30,18 +30,18 @@
     <img src="./assets/Depth_and_trajectory.png" alt="Depth and Trajectory Example" height="350" > 
 </p>
 
-<h3> 2D Instance segmentation masks
+<h3> 2D Instance segmentation masks </h3>
 <p align="center">
     <img src="./assets/segmentation_maps.png" alt="Depth and Trajectory Example" > 
 </p>
  
-<h3> 3D bounding boxes,shown on point cloud generated from RGB-D data 
+<h3> 3D bounding boxes,shown on point cloud generated from RGB-D data  </h3>
 <p align="center">
     <img src="./assets/3D_bounding_boxes_and_point_cloud.png" alt="Depth and Trajectory Example" > 
  </p>
  
 ## How to cite
-If you find this work useful, please use the following BibTeX entry for citing us <br>
+If you find this work useful, please use the following BibTeX entry for citing us 
 ```
 @article{nigam2021racklay,
   title={RackLay: Multi-Layer Layout Estimation for Warehouse Racks},
@@ -50,7 +50,7 @@ If you find this work useful, please use the following BibTeX entry for citing u
   year={2021}
 }
 ```
-<br>
+
 ## Contact information
 - anurag.sahu@research.iiit.ac.in
 - tanvi.karandikar@students.iiit.ac.in
